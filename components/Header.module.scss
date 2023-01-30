@@ -1,0 +1,47 @@
+.header{
+
+display: flex;
+justify-content: center;
+margin-bottom:60px;
+border-radius: 5%;
+margin-top:20px;
+}    
+
+
+button{
+  text-align: start;
+    margin-right: 10px;
+    border-radius: 8px;
+    height: 35px;
+    border: 1px solid transparent;
+    padding: 12px 14px;
+    font-size: 1em;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+        
+    }.button{
+  width: 250px;
+  border-radius: 18px;
+}
+      button:hover {
+        border-color: #a8a4a4;
+      }
+
+
+      .search_icon{
+        width: 20px;
+        height: 20px;
+      }
+
+      .sunshine{
+        width: 44px;
+        height: 44px;
+        
+      }
+      .search{
+        display: flex;
+      }
